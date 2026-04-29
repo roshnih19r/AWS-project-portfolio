@@ -31,11 +31,11 @@ Website successfully hosted and accessible via public IP
 
 🔹 Screenshots
 
-ec2-project/b.ec2.png
+![EC2 Screenshot](ec2-project/b.ec2.png)
 
-ec2-project/c.ec2.png
+![EC2 Screenshot](ec2-project/c.ec2.png)
 
-ec2-project/d.ec2.png
+![EC2 Screenshot](ec2-project/d.ec2.png)
 
 EC2 public IP link : http://52.66.202.217/
 
@@ -63,9 +63,9 @@ Website successfully hosted using S3 URL
 
 🔹 Screenshots
 
-S3-project/b.S3.png
+![S3 Screenshot](S3-project/b.s3.png)
 
-S3-project/c.S3.png
+![S3 Screenshot](S3-project/c.s3.png)
 
 S3 website URL : https://roshni-portfolio-site.s3.ap-south-1.amazonaws.com/S3file1.html
 
@@ -90,9 +90,9 @@ Secure IAM user created with controlled access
 
 🔹 Screenshots
 
-IAM-project/b.IAM.png
+![IAM Screenshot](IAM-project/b.Iam.png)
 
-IAM-project/c.IAM.png
+![IAM Screenshot](IAM-project/c.Iam.png)
 
 
 🛠️ Skills Gained
