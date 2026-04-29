@@ -30,10 +30,9 @@ I have created real-world projects to understand deployment, storage, and securi
 Website successfully hosted and accessible via public IP
 
 🔹 Screenshots
-![EC2 Step1](ec2.png)
-![EC2 Step2](ec2.1.png)
-![EC2 Step3](ec2.2.png)
-
+ec2-project/b.ec2.png
+ec2-project/c.ec2.png
+ec2-project/d.ec2.png
 
 
 🚀 Project 2: S3 Static Website Hosting
