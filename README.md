@@ -30,8 +30,11 @@ I have created real-world projects to understand deployment, storage, and securi
 Website successfully hosted and accessible via public IP
 
 🔹 Screenshots
+
 ec2-project/b.ec2.png
+
 ec2-project/c.ec2.png
+
 ec2-project/d.ec2.png
 
 EC2 public IP link : http://52.66.202.217/
@@ -59,7 +62,9 @@ EC2 public IP link : http://52.66.202.217/
 Website successfully hosted using S3 URL
 
 🔹 Screenshots
+
 S3-project/b.S3.png
+
 S3-project/c.S3.png
 
 S3 website URL : https://roshni-portfolio-site.s3.ap-south-1.amazonaws.com/S3file1.html
