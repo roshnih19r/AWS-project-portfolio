@@ -56,10 +56,9 @@ ec2-project/d.ec2.png
 Website successfully hosted using S3 URL
 
 🔹 Screenshots
+S3-project/b.S3.png
+S3-project/c.S3.png
 
-(Add S3 screenshots here)
-
----
 
 🚀 Project 3: IAM User Setup
 
