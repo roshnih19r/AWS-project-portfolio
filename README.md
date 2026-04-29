@@ -62,6 +62,8 @@ Website successfully hosted using S3 URL
 S3-project/b.S3.png
 S3-project/c.S3.png
 
+S3 website URL : https://roshni-portfolio-site.s3.ap-south-1.amazonaws.com/S3file1.html
+
 
 🚀 Project 3: IAM User Setup
 
