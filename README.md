@@ -90,9 +90,9 @@ Secure IAM user created with controlled access
 
 🔹 Screenshots
 
-![IAM Screenshot](IAM-project/b.Iam.png)
+![IAM Screenshot](IAM-project/b.IAM.png)
 
-![IAM Screenshot](IAM-project/c.Iam.png)
+![IAM Screenshot](IAM-project/c.IAM.png)
 
 
 🛠️ Skills Gained
