@@ -34,6 +34,8 @@ ec2-project/b.ec2.png
 ec2-project/c.ec2.png
 ec2-project/d.ec2.png
 
+EC2 public IP link : http://52.66.202.217/
+
 
 🚀 Project 2: S3 Static Website Hosting
 
