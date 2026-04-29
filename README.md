@@ -63,7 +63,7 @@ Website successfully hosted using S3 URL
 
 🔹 Screenshots
 
-![S3 Screenshot](S3-project/b.s3.png)
+![S3 Screenshot](S3-project/b.S3.png)
 
 ![S3 Screenshot](S3-project/c.s3.png)
 
